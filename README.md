@@ -1,1 +1,16 @@
-# OngleapHanjiooche
+<pre>
+@font-face {
+    font-family: "OngleapHanjiooche";
+    font-weight: 300;
+    font-style: normal;
+    src: url("https://cdn.jsdelivr.net/gh/wefonts/OngleapHanjiooche/OngleapHanjiooche.woff2") format("woff2"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/OngleapHanjiooche/OngleapHanjiooche.woff") format("woff"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/OngleapHanjiooche/OngleapHanjiooche.ttf") format("truetype");
+    font-display: swap;
+}
+
+.OngleapHanjiooche {
+    font-family: "OngleapHanjiooche";
+}
+  
+</pre>
